@@ -1,3 +1,5 @@
+The implementation for [this]( https://github.com/facebookresearch/detectron2/issues/5444 ) issue on detectron2
+
 This python code uses detectron2 to perform instance segmentation on images, and these predictions are converted to labels/annotations in COCO JSON format
 
 add your COCO JSON path and file name, as to where the files is located or has to be stored
